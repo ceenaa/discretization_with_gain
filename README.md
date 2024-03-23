@@ -1,4 +1,4 @@
-# discretization_with_gain
+# Discretization with information gain
 Discretization of data with information gain and entropy with 3 methods
 
 # Details
